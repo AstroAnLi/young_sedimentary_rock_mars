@@ -40,7 +40,7 @@ plot first, refer to the comment "comment out below..." and save script, then ru
 ind_volume_plots.py: Only run "python best_fit_plots.py" in Terminal to get the
 model's volume plots for each of the 14 regions and all 14 regions together. To
 try one area first, refer to the comment "comment out below..." and save script, then run. 
-ind_volume_plots.py uses scripts from ind_volume_functions.py
+ind_volume_plots.py uses scripts from ind_volume_functions.py.
 
 cum_vol_plots.py: Run "python cum_vol_plots.py" in Terminal to get the
 model's volume plots for a cumulative 14 regions plot and a cumulative 14 regions
