@@ -58,5 +58,5 @@ plot_contour('6b', start_time, 4.5, 1, 5000, points, area6b, log=False, tli=True
 #area 7 Upper Mount Sharp
 plot_contour(7, start_time, 4.5, 1, 1500, points, area7, log=False, tli=True, bli=True)
 
-all areas
+#all areas
 plot_contour('all_area', start_time, 4.5, 1, 1500, points, all_area, log=False, tli=True, bli=True, all=True)
