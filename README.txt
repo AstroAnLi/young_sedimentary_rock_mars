@@ -9,7 +9,7 @@ installed: matplotlib, numpy, scipy, pandas, math, and collections. If any of th
 are not installed, in Terminal, run: "pip install _____" where the package
 name goes in the blank.
 
-Important: All scripts and data must be in the same folder.
+Important: All scripts and data must be in the same folder. After downloading region_data.zip, unzip and place scripts with data in same folder.
 
 all_craters.csv, all_craters.xlsx: CSV and Excel files of crater dataset.
 
