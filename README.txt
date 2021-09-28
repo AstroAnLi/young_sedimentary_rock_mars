@@ -9,7 +9,7 @@ installed: matplotlib, numpy, scipy, pandas, math, and collections. If any of th
 are not installed, in Terminal, run: "pip install _____" where the package
 name goes in the blank.
 
-Important: All scripts and data must be in the same folder. Download region_data.zip data here: 
+Important: All scripts and data must be in the same folder. Download data file region_data.zip here: 
 https://drive.google.com/file/d/109dBnRp7Fl4MPuyqZQ9MBn4_-ahN17sY/view?usp=sharing. 
 After downloading, unzip and place scripts with data in same folder.
 
