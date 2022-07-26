@@ -1,6 +1,4 @@
-This is the code for An Y. Li's 2021 senior thesis:
-"A New Probabilistic Model to Evaluate the Age and Erosion Rate of Young
-Sedimentary Rock on Mars."
+This is the code for the paper "The Age and Erosion Rate of Young Sedimentary Rock on Mars" by An Y. Li, Edwin S. Kite, and Katarina Keating.
 
 For any questions, contact An at anli7@uw.edu.
 
